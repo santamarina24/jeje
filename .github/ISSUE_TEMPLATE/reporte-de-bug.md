@@ -8,3 +8,6 @@ assignees: ''
 ---
 
 **Nuevo BUG**
+
+
+@valerinsaban @santamarina24
