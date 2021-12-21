@@ -1,1 +1,3 @@
-console.log('Adios')
+console.log('Adios');
+
+console.log('Otro mensaje');
